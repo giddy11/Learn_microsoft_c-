@@ -1,0 +1,15 @@
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\StudentGradingApplication\bin\Debug\net8.0\StudentGradingApplication.exe
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\StudentGradingApplication\bin\Debug\net8.0\StudentGradingApplication.deps.json
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\StudentGradingApplication\bin\Debug\net8.0\StudentGradingApplication.runtimeconfig.json
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\StudentGradingApplication\bin\Debug\net8.0\StudentGradingApplication.dll
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\StudentGradingApplication\bin\Debug\net8.0\StudentGradingApplication.pdb
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\StudentGradingApplication\obj\Debug\net8.0\StudentGradingApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\StudentGradingApplication\obj\Debug\net8.0\StudentGradingApplication.AssemblyInfoInputs.cache
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\StudentGradingApplication\obj\Debug\net8.0\StudentGradingApplication.AssemblyInfo.cs
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\StudentGradingApplication\obj\Debug\net8.0\StudentGradingApplication.csproj.CoreCompileInputs.cache
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\StudentGradingApplication\obj\Debug\net8.0\StudentGradingApplication.sourcelink.json
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\StudentGradingApplication\obj\Debug\net8.0\StudentGradingApplication.dll
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\StudentGradingApplication\obj\Debug\net8.0\refint\StudentGradingApplication.dll
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\StudentGradingApplication\obj\Debug\net8.0\StudentGradingApplication.pdb
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\StudentGradingApplication\obj\Debug\net8.0\StudentGradingApplication.genruntimeconfig.cache
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\StudentGradingApplication\obj\Debug\net8.0\ref\StudentGradingApplication.dll
