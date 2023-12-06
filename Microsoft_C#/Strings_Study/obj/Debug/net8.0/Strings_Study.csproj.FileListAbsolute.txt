@@ -1,0 +1,15 @@
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\Strings_Study\bin\Debug\net8.0\Strings_Study.exe
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\Strings_Study\bin\Debug\net8.0\Strings_Study.deps.json
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\Strings_Study\bin\Debug\net8.0\Strings_Study.runtimeconfig.json
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\Strings_Study\bin\Debug\net8.0\Strings_Study.dll
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\Strings_Study\bin\Debug\net8.0\Strings_Study.pdb
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\Strings_Study\obj\Debug\net8.0\Strings_Study.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\Strings_Study\obj\Debug\net8.0\Strings_Study.AssemblyInfoInputs.cache
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\Strings_Study\obj\Debug\net8.0\Strings_Study.AssemblyInfo.cs
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\Strings_Study\obj\Debug\net8.0\Strings_Study.csproj.CoreCompileInputs.cache
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\Strings_Study\obj\Debug\net8.0\Strings_Study.sourcelink.json
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\Strings_Study\obj\Debug\net8.0\Strings_Study.dll
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\Strings_Study\obj\Debug\net8.0\refint\Strings_Study.dll
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\Strings_Study\obj\Debug\net8.0\Strings_Study.pdb
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\Strings_Study\obj\Debug\net8.0\Strings_Study.genruntimeconfig.cache
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\Strings_Study\obj\Debug\net8.0\ref\Strings_Study.dll
