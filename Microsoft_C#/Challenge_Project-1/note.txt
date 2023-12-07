@@ -1,0 +1,27 @@
+Your goal in this challenge is to implement the coding updates required to produce the teacher's requested score report.
+
+The current score report lists the student's name followed by the calculated overall grade and letter grade. Here is the existing report format:
+
+Student         Grade   Letter Grade
+
+Sophia          95.6    A
+Andrew          91.6    A-
+Emma            89.2    B+
+Logan           93      A
+
+In addition to the student's final numeric score and letter grade, the teacher wants the updated report to include the exam score and the impact that extra credit work has on the student's final grade. The format of the updated score report should appear as follows:
+
+Student         Exam Score      Overall Grade   Extra Credit
+
+Sophia          92.2            95.88   A       92 (3.68 pts)
+Andrew          89.6            91.38   A-      89 (1.78 pts)
+Emma            85.6            90.94   A-      89 (5.34 pts)
+Logan           91.2            93.12   A       96 (1.92 pts)
+
+
+Student         Exam Score      Overall Grade   Extra Credit
+
+Sophia          0               95.8    A       0 (0 pts)
+Andrew          0               91.2    A-      0 (0 pts)
+Emma            0               90.4    A-      0 (0 pts)
+Logan           0               93      A       0 (0 pts)
