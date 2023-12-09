@@ -1,0 +1,15 @@
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\StringBuilder_Study\bin\Debug\net8.0\StringBuilder_Study.exe
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\StringBuilder_Study\bin\Debug\net8.0\StringBuilder_Study.deps.json
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\StringBuilder_Study\bin\Debug\net8.0\StringBuilder_Study.runtimeconfig.json
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\StringBuilder_Study\bin\Debug\net8.0\StringBuilder_Study.dll
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\StringBuilder_Study\bin\Debug\net8.0\StringBuilder_Study.pdb
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\StringBuilder_Study\obj\Debug\net8.0\StringBuilder_Study.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\StringBuilder_Study\obj\Debug\net8.0\StringBuilder_Study.AssemblyInfoInputs.cache
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\StringBuilder_Study\obj\Debug\net8.0\StringBuilder_Study.AssemblyInfo.cs
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\StringBuilder_Study\obj\Debug\net8.0\StringBuilder_Study.csproj.CoreCompileInputs.cache
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\StringBuilder_Study\obj\Debug\net8.0\StringBuilder_Study.sourcelink.json
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\StringBuilder_Study\obj\Debug\net8.0\StringBuilder_Study.dll
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\StringBuilder_Study\obj\Debug\net8.0\refint\StringBuilder_Study.dll
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\StringBuilder_Study\obj\Debug\net8.0\StringBuilder_Study.pdb
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\StringBuilder_Study\obj\Debug\net8.0\StringBuilder_Study.genruntimeconfig.cache
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\StringBuilder_Study\obj\Debug\net8.0\ref\StringBuilder_Study.dll

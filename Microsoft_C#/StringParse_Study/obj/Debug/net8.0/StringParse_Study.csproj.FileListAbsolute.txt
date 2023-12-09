@@ -1,0 +1,15 @@
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\StringParse_Study\bin\Debug\net8.0\StringParse_Study.exe
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\StringParse_Study\bin\Debug\net8.0\StringParse_Study.deps.json
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\StringParse_Study\bin\Debug\net8.0\StringParse_Study.runtimeconfig.json
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\StringParse_Study\bin\Debug\net8.0\StringParse_Study.dll
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\StringParse_Study\bin\Debug\net8.0\StringParse_Study.pdb
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\StringParse_Study\obj\Debug\net8.0\StringParse_Study.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\StringParse_Study\obj\Debug\net8.0\StringParse_Study.AssemblyInfoInputs.cache
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\StringParse_Study\obj\Debug\net8.0\StringParse_Study.AssemblyInfo.cs
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\StringParse_Study\obj\Debug\net8.0\StringParse_Study.csproj.CoreCompileInputs.cache
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\StringParse_Study\obj\Debug\net8.0\StringParse_Study.sourcelink.json
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\StringParse_Study\obj\Debug\net8.0\StringParse_Study.dll
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\StringParse_Study\obj\Debug\net8.0\refint\StringParse_Study.dll
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\StringParse_Study\obj\Debug\net8.0\StringParse_Study.pdb
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\StringParse_Study\obj\Debug\net8.0\StringParse_Study.genruntimeconfig.cache
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\StringParse_Study\obj\Debug\net8.0\ref\StringParse_Study.dll
