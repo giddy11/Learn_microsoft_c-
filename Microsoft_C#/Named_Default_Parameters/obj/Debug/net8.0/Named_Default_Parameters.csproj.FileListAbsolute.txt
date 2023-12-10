@@ -1,0 +1,15 @@
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\Named_Default_Parameters\bin\Debug\net8.0\Named_Default_Parameters.exe
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\Named_Default_Parameters\bin\Debug\net8.0\Named_Default_Parameters.deps.json
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\Named_Default_Parameters\bin\Debug\net8.0\Named_Default_Parameters.runtimeconfig.json
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\Named_Default_Parameters\bin\Debug\net8.0\Named_Default_Parameters.dll
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\Named_Default_Parameters\bin\Debug\net8.0\Named_Default_Parameters.pdb
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\Named_Default_Parameters\obj\Debug\net8.0\Named_Default_Parameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\Named_Default_Parameters\obj\Debug\net8.0\Named_Default_Parameters.AssemblyInfoInputs.cache
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\Named_Default_Parameters\obj\Debug\net8.0\Named_Default_Parameters.AssemblyInfo.cs
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\Named_Default_Parameters\obj\Debug\net8.0\Named_Default_Parameters.csproj.CoreCompileInputs.cache
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\Named_Default_Parameters\obj\Debug\net8.0\Named_Default_Parameters.sourcelink.json
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\Named_Default_Parameters\obj\Debug\net8.0\Named_Default_Parameters.dll
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\Named_Default_Parameters\obj\Debug\net8.0\refint\Named_Default_Parameters.dll
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\Named_Default_Parameters\obj\Debug\net8.0\Named_Default_Parameters.pdb
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\Named_Default_Parameters\obj\Debug\net8.0\Named_Default_Parameters.genruntimeconfig.cache
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\Named_Default_Parameters\obj\Debug\net8.0\ref\Named_Default_Parameters.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MultiValues_Tuples/1.0.0": {
+        "runtime": {
+          "MultiValues_Tuples.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MultiValues_Tuples/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

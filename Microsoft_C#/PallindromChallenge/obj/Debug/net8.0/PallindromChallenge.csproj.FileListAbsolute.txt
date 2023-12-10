@@ -1,0 +1,15 @@
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\PallindromChallenge\bin\Debug\net8.0\PallindromChallenge.exe
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\PallindromChallenge\bin\Debug\net8.0\PallindromChallenge.deps.json
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\PallindromChallenge\bin\Debug\net8.0\PallindromChallenge.runtimeconfig.json
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\PallindromChallenge\bin\Debug\net8.0\PallindromChallenge.dll
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\PallindromChallenge\bin\Debug\net8.0\PallindromChallenge.pdb
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\PallindromChallenge\obj\Debug\net8.0\PallindromChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\PallindromChallenge\obj\Debug\net8.0\PallindromChallenge.AssemblyInfoInputs.cache
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\PallindromChallenge\obj\Debug\net8.0\PallindromChallenge.AssemblyInfo.cs
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\PallindromChallenge\obj\Debug\net8.0\PallindromChallenge.csproj.CoreCompileInputs.cache
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\PallindromChallenge\obj\Debug\net8.0\PallindromChallenge.sourcelink.json
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\PallindromChallenge\obj\Debug\net8.0\PallindromChallenge.dll
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\PallindromChallenge\obj\Debug\net8.0\refint\PallindromChallenge.dll
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\PallindromChallenge\obj\Debug\net8.0\PallindromChallenge.pdb
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\PallindromChallenge\obj\Debug\net8.0\PallindromChallenge.genruntimeconfig.cache
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\PallindromChallenge\obj\Debug\net8.0\ref\PallindromChallenge.dll

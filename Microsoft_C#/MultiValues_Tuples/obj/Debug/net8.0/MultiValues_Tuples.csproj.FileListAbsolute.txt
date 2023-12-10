@@ -1,0 +1,15 @@
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\MultiValues_Tuples\bin\Debug\net8.0\MultiValues_Tuples.exe
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\MultiValues_Tuples\bin\Debug\net8.0\MultiValues_Tuples.deps.json
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\MultiValues_Tuples\bin\Debug\net8.0\MultiValues_Tuples.runtimeconfig.json
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\MultiValues_Tuples\bin\Debug\net8.0\MultiValues_Tuples.dll
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\MultiValues_Tuples\bin\Debug\net8.0\MultiValues_Tuples.pdb
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\MultiValues_Tuples\obj\Debug\net8.0\MultiValues_Tuples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\MultiValues_Tuples\obj\Debug\net8.0\MultiValues_Tuples.AssemblyInfoInputs.cache
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\MultiValues_Tuples\obj\Debug\net8.0\MultiValues_Tuples.AssemblyInfo.cs
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\MultiValues_Tuples\obj\Debug\net8.0\MultiValues_Tuples.csproj.CoreCompileInputs.cache
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\MultiValues_Tuples\obj\Debug\net8.0\MultiValues_Tuples.sourcelink.json
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\MultiValues_Tuples\obj\Debug\net8.0\MultiValues_Tuples.dll
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\MultiValues_Tuples\obj\Debug\net8.0\refint\MultiValues_Tuples.dll
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\MultiValues_Tuples\obj\Debug\net8.0\MultiValues_Tuples.pdb
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\MultiValues_Tuples\obj\Debug\net8.0\MultiValues_Tuples.genruntimeconfig.cache
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\MultiValues_Tuples\obj\Debug\net8.0\ref\MultiValues_Tuples.dll

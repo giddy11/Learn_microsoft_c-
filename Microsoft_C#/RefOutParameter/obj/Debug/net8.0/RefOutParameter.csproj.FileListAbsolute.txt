@@ -1,0 +1,15 @@
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\RefOutParameter\bin\Debug\net8.0\RefOutParameter.exe
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\RefOutParameter\bin\Debug\net8.0\RefOutParameter.deps.json
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\RefOutParameter\bin\Debug\net8.0\RefOutParameter.runtimeconfig.json
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\RefOutParameter\bin\Debug\net8.0\RefOutParameter.dll
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\RefOutParameter\bin\Debug\net8.0\RefOutParameter.pdb
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\RefOutParameter\obj\Debug\net8.0\RefOutParameter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\RefOutParameter\obj\Debug\net8.0\RefOutParameter.AssemblyInfoInputs.cache
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\RefOutParameter\obj\Debug\net8.0\RefOutParameter.AssemblyInfo.cs
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\RefOutParameter\obj\Debug\net8.0\RefOutParameter.csproj.CoreCompileInputs.cache
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\RefOutParameter\obj\Debug\net8.0\RefOutParameter.sourcelink.json
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\RefOutParameter\obj\Debug\net8.0\RefOutParameter.dll
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\RefOutParameter\obj\Debug\net8.0\refint\RefOutParameter.dll
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\RefOutParameter\obj\Debug\net8.0\RefOutParameter.pdb
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\RefOutParameter\obj\Debug\net8.0\RefOutParameter.genruntimeconfig.cache
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\RefOutParameter\obj\Debug\net8.0\ref\RefOutParameter.dll
