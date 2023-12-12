@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Linkedln.Essential")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae0e190c843e7d6d90df130f7aafdf6e74ef99e6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2301eda8c8fb24d698f7c23236e52b817dc8a2f8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Linkedln.Essential")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Linkedln.Essential")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

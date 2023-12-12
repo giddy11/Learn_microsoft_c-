@@ -37,11 +37,12 @@ m.SetReports(7);
 // See https://aka.ms/new-console-template for more information
 
 
-Classes();
-//Structs();
+//Classes();
+Structs();
 //Records();
 
 
+/*
 static void Classes()
 {
     Console.WriteLine("=========== Classes = reference types ===========");
@@ -86,9 +87,7 @@ static void ChangeName(IPerson person)
 
     Console.WriteLine($"Person after reference change in method is {person.FirstName}");
 }
-
-/*
-
+*/
 
 static void Structs()
 {
@@ -107,6 +106,7 @@ static void Structs()
     Console.WriteLine();
 }
 
+/*
 static void Records()
 {
     Console.WriteLine("=========== Records = reference or value types ===========");
@@ -128,6 +128,7 @@ static void Records()
     Console.WriteLine($"{pc.FirstName} {pc.LastName} is still {pc.Age.YearsOld}");
 
 }
+*/
 
 static void AgeBackwords(ref Age startingAge, int numberOfYearsToAge)
 {
@@ -135,6 +136,5 @@ static void AgeBackwords(ref Age startingAge, int numberOfYearsToAge)
     Console.WriteLine($"Modified age in method: {startingAge.YearsOld}");
 }
 
-*/
 
 Console.WriteLine();
