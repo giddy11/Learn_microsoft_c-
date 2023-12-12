@@ -1,0 +1,15 @@
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\Linkedln.Essential\bin\Debug\net8.0\Linkedln.Essential.exe
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\Linkedln.Essential\bin\Debug\net8.0\Linkedln.Essential.deps.json
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\Linkedln.Essential\bin\Debug\net8.0\Linkedln.Essential.runtimeconfig.json
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\Linkedln.Essential\bin\Debug\net8.0\Linkedln.Essential.dll
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\Linkedln.Essential\bin\Debug\net8.0\Linkedln.Essential.pdb
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\Linkedln.Essential\obj\Debug\net8.0\Linkedln.Essential.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\Linkedln.Essential\obj\Debug\net8.0\Linkedln.Essential.AssemblyInfoInputs.cache
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\Linkedln.Essential\obj\Debug\net8.0\Linkedln.Essential.AssemblyInfo.cs
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\Linkedln.Essential\obj\Debug\net8.0\Linkedln.Essential.csproj.CoreCompileInputs.cache
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\Linkedln.Essential\obj\Debug\net8.0\Linkedln.Essential.sourcelink.json
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\Linkedln.Essential\obj\Debug\net8.0\Linkedln.Essential.dll
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\Linkedln.Essential\obj\Debug\net8.0\refint\Linkedln.Essential.dll
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\Linkedln.Essential\obj\Debug\net8.0\Linkedln.Essential.pdb
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\Linkedln.Essential\obj\Debug\net8.0\Linkedln.Essential.genruntimeconfig.cache
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\Linkedln.Essential\obj\Debug\net8.0\ref\Linkedln.Essential.dll
