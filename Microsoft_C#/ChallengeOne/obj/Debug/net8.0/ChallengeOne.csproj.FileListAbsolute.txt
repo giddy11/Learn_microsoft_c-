@@ -1,0 +1,15 @@
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\ChallengeOne\bin\Debug\net8.0\ChallengeOne.exe
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\ChallengeOne\bin\Debug\net8.0\ChallengeOne.deps.json
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\ChallengeOne\bin\Debug\net8.0\ChallengeOne.runtimeconfig.json
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\ChallengeOne\bin\Debug\net8.0\ChallengeOne.dll
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\ChallengeOne\bin\Debug\net8.0\ChallengeOne.pdb
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\ChallengeOne\obj\Debug\net8.0\ChallengeOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\ChallengeOne\obj\Debug\net8.0\ChallengeOne.AssemblyInfoInputs.cache
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\ChallengeOne\obj\Debug\net8.0\ChallengeOne.AssemblyInfo.cs
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\ChallengeOne\obj\Debug\net8.0\ChallengeOne.csproj.CoreCompileInputs.cache
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\ChallengeOne\obj\Debug\net8.0\ChallengeOne.sourcelink.json
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\ChallengeOne\obj\Debug\net8.0\ChallengeOne.dll
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\ChallengeOne\obj\Debug\net8.0\refint\ChallengeOne.dll
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\ChallengeOne\obj\Debug\net8.0\ChallengeOne.pdb
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\ChallengeOne\obj\Debug\net8.0\ChallengeOne.genruntimeconfig.cache
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\ChallengeOne\obj\Debug\net8.0\ref\ChallengeOne.dll
