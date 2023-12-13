@@ -2,11 +2,7 @@
 With my struggles in C#, i decided to have a repository that has all concepts related to C# and because i will be learning other language and wont
 want to lose track of my C# knowledge, i have decided to use this repo as my fall back to concepts i might have forgotten.
 
-You are free to contribute to this, just ensure you read through [CONTRIBUTION.md](./CONTRIBUTION.md) to know how to contribute,
-after reading about the particular project of interest.
-
-There were 5 projects in all and I was supposed to get at least 3 of them done within the 4 weeks of internship, but as an [**ALX**](https://www.alxafrica.com/)
-brought up, I chose to do them all. I thought it was a great opportunity to stand out, if indeed being an ALX SE student makes one stand out in the tech space.
+You are free to contribute to this, just ensure you read through [CONTRIBUTION.md](./CONTRIBUTION.md) to know how to contribute
 
 There are 6 branches currently that focusses on areas in C#
 ***Below are things to take note of in my repo and is a link to how its been implemented or explained:***
@@ -50,7 +46,6 @@ This is the [Test Program](https://github.com/giddy11/Learn_microsoft_cSharp/blo
 3. **String Parse**: [StringParse](https://github.com/giddy11/Learn_microsoft_cSharp/blob/Topic/Strings/Microsoft_C%23/StringParse_Study/Program.cs)
 
 4. **String Builder**: [StringBuilder](https://github.com/giddy11/Learn_microsoft_cSharp/blob/Topic/Strings/Microsoft_C%23/StringBuilder_Study/Program.cs)
-
 
 
 --------
