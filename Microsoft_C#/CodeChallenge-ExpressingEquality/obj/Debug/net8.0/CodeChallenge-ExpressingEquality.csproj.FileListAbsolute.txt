@@ -1,0 +1,15 @@
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\CodeChallenge-ExpressingEquality\bin\Debug\net8.0\CodeChallenge-ExpressingEquality.exe
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\CodeChallenge-ExpressingEquality\bin\Debug\net8.0\CodeChallenge-ExpressingEquality.deps.json
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\CodeChallenge-ExpressingEquality\bin\Debug\net8.0\CodeChallenge-ExpressingEquality.runtimeconfig.json
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\CodeChallenge-ExpressingEquality\bin\Debug\net8.0\CodeChallenge-ExpressingEquality.dll
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\CodeChallenge-ExpressingEquality\bin\Debug\net8.0\CodeChallenge-ExpressingEquality.pdb
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\CodeChallenge-ExpressingEquality\obj\Debug\net8.0\CodeChallenge-ExpressingEquality.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\CodeChallenge-ExpressingEquality\obj\Debug\net8.0\CodeChallenge-ExpressingEquality.AssemblyInfoInputs.cache
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\CodeChallenge-ExpressingEquality\obj\Debug\net8.0\CodeChallenge-ExpressingEquality.AssemblyInfo.cs
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\CodeChallenge-ExpressingEquality\obj\Debug\net8.0\CodeChallenge-ExpressingEquality.csproj.CoreCompileInputs.cache
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\CodeChallenge-ExpressingEquality\obj\Debug\net8.0\CodeChallenge-ExpressingEquality.sourcelink.json
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\CodeChallenge-ExpressingEquality\obj\Debug\net8.0\CodeChallenge-ExpressingEquality.dll
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\CodeChallenge-ExpressingEquality\obj\Debug\net8.0\refint\CodeChallenge-ExpressingEquality.dll
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\CodeChallenge-ExpressingEquality\obj\Debug\net8.0\CodeChallenge-ExpressingEquality.pdb
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\CodeChallenge-ExpressingEquality\obj\Debug\net8.0\CodeChallenge-ExpressingEquality.genruntimeconfig.cache
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\CodeChallenge-ExpressingEquality\obj\Debug\net8.0\ref\CodeChallenge-ExpressingEquality.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EqualitySTudy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0a8acd3649939b6da24a4266b8adb6c89d6c7f3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("EqualitySTudy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EqualitySTudy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

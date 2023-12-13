@@ -1,0 +1,15 @@
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\NullableTypes\bin\Debug\net8.0\NullableTypes.exe
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\NullableTypes\bin\Debug\net8.0\NullableTypes.deps.json
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\NullableTypes\bin\Debug\net8.0\NullableTypes.runtimeconfig.json
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\NullableTypes\bin\Debug\net8.0\NullableTypes.dll
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\NullableTypes\bin\Debug\net8.0\NullableTypes.pdb
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\NullableTypes\obj\Debug\net8.0\NullableTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\NullableTypes\obj\Debug\net8.0\NullableTypes.AssemblyInfoInputs.cache
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\NullableTypes\obj\Debug\net8.0\NullableTypes.AssemblyInfo.cs
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\NullableTypes\obj\Debug\net8.0\NullableTypes.csproj.CoreCompileInputs.cache
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\NullableTypes\obj\Debug\net8.0\NullableTypes.sourcelink.json
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\NullableTypes\obj\Debug\net8.0\NullableTypes.dll
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\NullableTypes\obj\Debug\net8.0\refint\NullableTypes.dll
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\NullableTypes\obj\Debug\net8.0\NullableTypes.pdb
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\NullableTypes\obj\Debug\net8.0\NullableTypes.genruntimeconfig.cache
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\NullableTypes\obj\Debug\net8.0\ref\NullableTypes.dll
