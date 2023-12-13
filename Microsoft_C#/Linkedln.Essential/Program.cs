@@ -39,10 +39,10 @@ m.SetReports(7);
 
 //Classes();
 Structs();
-//Records();
+Records();
 
 
-/*
+
 static void Classes()
 {
     Console.WriteLine("=========== Classes = reference types ===========");
@@ -87,7 +87,7 @@ static void ChangeName(IPerson person)
 
     Console.WriteLine($"Person after reference change in method is {person.FirstName}");
 }
-*/
+
 
 static void Structs()
 {
@@ -106,7 +106,7 @@ static void Structs()
     Console.WriteLine();
 }
 
-/*
+
 static void Records()
 {
     Console.WriteLine("=========== Records = reference or value types ===========");
@@ -128,7 +128,7 @@ static void Records()
     Console.WriteLine($"{pc.FirstName} {pc.LastName} is still {pc.Age.YearsOld}");
 
 }
-*/
+
 
 static void AgeBackwords(ref Age startingAge, int numberOfYearsToAge)
 {

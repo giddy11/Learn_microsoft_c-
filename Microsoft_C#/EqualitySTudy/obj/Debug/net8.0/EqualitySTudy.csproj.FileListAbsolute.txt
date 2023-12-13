@@ -1,0 +1,15 @@
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\EqualitySTudy\bin\Debug\net8.0\EqualitySTudy.exe
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\EqualitySTudy\bin\Debug\net8.0\EqualitySTudy.deps.json
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\EqualitySTudy\bin\Debug\net8.0\EqualitySTudy.runtimeconfig.json
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\EqualitySTudy\bin\Debug\net8.0\EqualitySTudy.dll
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\EqualitySTudy\bin\Debug\net8.0\EqualitySTudy.pdb
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\EqualitySTudy\obj\Debug\net8.0\EqualitySTudy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\EqualitySTudy\obj\Debug\net8.0\EqualitySTudy.AssemblyInfoInputs.cache
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\EqualitySTudy\obj\Debug\net8.0\EqualitySTudy.AssemblyInfo.cs
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\EqualitySTudy\obj\Debug\net8.0\EqualitySTudy.csproj.CoreCompileInputs.cache
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\EqualitySTudy\obj\Debug\net8.0\EqualitySTudy.sourcelink.json
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\EqualitySTudy\obj\Debug\net8.0\EqualitySTudy.dll
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\EqualitySTudy\obj\Debug\net8.0\refint\EqualitySTudy.dll
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\EqualitySTudy\obj\Debug\net8.0\EqualitySTudy.pdb
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\EqualitySTudy\obj\Debug\net8.0\EqualitySTudy.genruntimeconfig.cache
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\EqualitySTudy\obj\Debug\net8.0\ref\EqualitySTudy.dll

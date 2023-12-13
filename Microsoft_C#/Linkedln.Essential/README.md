@@ -52,3 +52,47 @@ int[] array2 = array1; // array2 now references the same array as array1
 Reference types are typically used when you want to work with shared or mutable data. Keep in mind that when you pass a reference 
 type to a method, you are passing a reference to the object, not a copy of the object, 
 which can affect the behavior of your code.
+
+
+Classes:
+
+Reference Types: Objects created from classes are reference types. When you pass a class instance to a method or assign it to another variable, you're dealing with references to the same underlying object.
+Heap Allocation: Class instances are allocated on the heap, and they are garbage-collected when no longer referenced.
+Mutable: By default, classes are mutable, meaning their state can be modified after creation unless explicitly marked as readonly or using other mechanisms.
+Example:
+
+public class MyClass
+{
+    // Class members and methods
+}
+
+MyClass obj = new MyClass();
+Structs:
+
+Value Types: Structs are value types. When you pass a struct to a method or assign it to another variable, you're working with a copy of the data, not a reference to the same instance.
+Stack Allocation: Struct instances are usually allocated on the stack, providing better performance than heap-allocated reference types.
+Immutable by Default: Structs are implicitly immutable unless members are explicitly marked as readonly.
+Example:
+
+public struct MyStruct
+{
+    // Struct members and methods
+}
+
+MyStruct obj = new MyStruct();
+Records (Introduced in C# 9.0):
+
+Value Types: Records are also value types, like structs.
+Immutability: Records are designed to be immutable by default. They provide concise syntax for declaring read-only properties and automatically implement value-based equality.
+Semantic Equality: Records compare their values rather than references, making it easier to work with immutable data structures and ensuring proper behavior with deconstruction and pattern matching.
+Example:
+
+public record MyRecord
+{
+    // Record properties
+}
+
+MyRecord obj = new MyRecord();
+
+
+In summary, classes are reference types, structs are value types, and records are a special kind of value type introduced in C# 9.0 that emphasizes immutability and provides concise syntax for declaring types that are primarily used to store data. The choice between them depends on the specific requirements and characteristics of the data you're modeling.
