@@ -1,0 +1,15 @@
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\Essential.Learning2.Generics\bin\Debug\net8.0\Essential.Learning2.Generics.exe
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\Essential.Learning2.Generics\bin\Debug\net8.0\Essential.Learning2.Generics.deps.json
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\Essential.Learning2.Generics\bin\Debug\net8.0\Essential.Learning2.Generics.runtimeconfig.json
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\Essential.Learning2.Generics\bin\Debug\net8.0\Essential.Learning2.Generics.dll
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\Essential.Learning2.Generics\bin\Debug\net8.0\Essential.Learning2.Generics.pdb
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\Essential.Learning2.Generics\obj\Debug\net8.0\Essential.Learning2.Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\Essential.Learning2.Generics\obj\Debug\net8.0\Essential.Learning2.Generics.AssemblyInfoInputs.cache
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\Essential.Learning2.Generics\obj\Debug\net8.0\Essential.Learning2.Generics.AssemblyInfo.cs
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\Essential.Learning2.Generics\obj\Debug\net8.0\Essential.Learning2.Generics.csproj.CoreCompileInputs.cache
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\Essential.Learning2.Generics\obj\Debug\net8.0\Essential.Learning2.Generics.sourcelink.json
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\Essential.Learning2.Generics\obj\Debug\net8.0\Essential.Learning2.Generics.dll
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\Essential.Learning2.Generics\obj\Debug\net8.0\refint\Essential.Learning2.Generics.dll
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\Essential.Learning2.Generics\obj\Debug\net8.0\Essential.Learning2.Generics.pdb
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\Essential.Learning2.Generics\obj\Debug\net8.0\Essential.Learning2.Generics.genruntimeconfig.cache
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\Essential.Learning2.Generics\obj\Debug\net8.0\ref\Essential.Learning2.Generics.dll

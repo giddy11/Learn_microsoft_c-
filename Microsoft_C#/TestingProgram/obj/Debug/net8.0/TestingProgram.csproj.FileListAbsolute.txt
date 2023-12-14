@@ -1,0 +1,15 @@
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\TestingProgram\bin\Debug\net8.0\TestingProgram.exe
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\TestingProgram\bin\Debug\net8.0\TestingProgram.deps.json
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\TestingProgram\bin\Debug\net8.0\TestingProgram.runtimeconfig.json
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\TestingProgram\bin\Debug\net8.0\TestingProgram.dll
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\TestingProgram\bin\Debug\net8.0\TestingProgram.pdb
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\TestingProgram\obj\Debug\net8.0\TestingProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\TestingProgram\obj\Debug\net8.0\TestingProgram.AssemblyInfoInputs.cache
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\TestingProgram\obj\Debug\net8.0\TestingProgram.AssemblyInfo.cs
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\TestingProgram\obj\Debug\net8.0\TestingProgram.csproj.CoreCompileInputs.cache
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\TestingProgram\obj\Debug\net8.0\TestingProgram.sourcelink.json
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\TestingProgram\obj\Debug\net8.0\TestingProgram.dll
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\TestingProgram\obj\Debug\net8.0\refint\TestingProgram.dll
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\TestingProgram\obj\Debug\net8.0\TestingProgram.pdb
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\TestingProgram\obj\Debug\net8.0\TestingProgram.genruntimeconfig.cache
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\TestingProgram\obj\Debug\net8.0\ref\TestingProgram.dll

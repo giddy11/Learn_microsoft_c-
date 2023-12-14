@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Essential.Learning2.Generics/1.0.0": {
+        "runtime": {
+          "Essential.Learning2.Generics.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Essential.Learning2.Generics/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

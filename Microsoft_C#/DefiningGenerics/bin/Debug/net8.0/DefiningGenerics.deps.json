@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DefiningGenerics/1.0.0": {
+        "dependencies": {
+          "Essential.Learning2.Generics": "1.0.0"
+        },
+        "runtime": {
+          "DefiningGenerics.dll": {}
+        }
+      },
+      "Essential.Learning2.Generics/1.0.0": {
+        "runtime": {
+          "Essential.Learning2.Generics.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DefiningGenerics/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Essential.Learning2.Generics/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
