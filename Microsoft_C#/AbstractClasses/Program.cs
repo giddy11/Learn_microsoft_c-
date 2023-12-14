@@ -47,6 +47,9 @@ ShiftWorker d = new ShiftWorker()
     LastName = "Worker"
 };
 d.DaysAvailable = ShiftDays.Weekend;// | ShiftDays.Weekend;
+
+// The HasFlag method on an enum type returns a boolean indicating if the value is present
+// and the bitwise AND operator can also be used to test for a value.
 bool availableMonday = d.DaysAvailable.HasFlag(ShiftDays.Monday);
 Console.WriteLine($"Available Mondays {availableMonday}");
 
