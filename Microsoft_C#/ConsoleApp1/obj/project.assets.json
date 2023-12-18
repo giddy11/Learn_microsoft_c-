@@ -2,6 +2,16 @@
   "version": 3,
   "targets": {
     "net8.0": {
+      "DatabaseGeneric/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/DatabaseGeneric.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DatabaseGeneric.dll": {}
+        }
+      },
       "GenericLibrary/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -15,6 +25,11 @@
     }
   },
   "libraries": {
+    "DatabaseGeneric/1.0.0": {
+      "type": "project",
+      "path": "../DatabaseGeneric/DatabaseGeneric.csproj",
+      "msbuildProject": "../DatabaseGeneric/DatabaseGeneric.csproj"
+    },
     "GenericLibrary/1.0.0": {
       "type": "project",
       "path": "../GenericLibrary/GenericLibrary.csproj",
@@ -23,28 +38,24 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "DatabaseGeneric >= 1.0.0",
       "GenericLibrary >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\gideon.edoghotu\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\edogh\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gideon.edoghotu\\Desktop\\Projects\\Learn_microsoft_cSharp\\Microsoft_C#\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\edogh\\Projects\\Learn_microsoft_cSharp\\Microsoft_C#\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\gideon.edoghotu\\Desktop\\Projects\\Learn_microsoft_cSharp\\Microsoft_C#\\ConsoleApp1\\ConsoleApp1.csproj",
-      "packagesPath": "C:\\Users\\gideon.edoghotu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gideon.edoghotu\\Desktop\\Projects\\Learn_microsoft_cSharp\\Microsoft_C#\\ConsoleApp1\\obj\\",
+      "projectPath": "C:\\Users\\edogh\\Projects\\Learn_microsoft_cSharp\\Microsoft_C#\\ConsoleApp1\\ConsoleApp1.csproj",
+      "packagesPath": "C:\\Users\\edogh\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\edogh\\Projects\\Learn_microsoft_cSharp\\Microsoft_C#\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\gideon.edoghotu\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\edogh\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -52,16 +63,17 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://nuget.pkg.github.com/cyphercrescent/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\gideon.edoghotu\\Desktop\\Projects\\Learn_microsoft_cSharp\\Microsoft_C#\\GenericLibrary\\GenericLibrary.csproj": {
-              "projectPath": "C:\\Users\\gideon.edoghotu\\Desktop\\Projects\\Learn_microsoft_cSharp\\Microsoft_C#\\GenericLibrary\\GenericLibrary.csproj"
+            "C:\\Users\\edogh\\Projects\\Learn_microsoft_cSharp\\Microsoft_C#\\DatabaseGeneric\\DatabaseGeneric.csproj": {
+              "projectPath": "C:\\Users\\edogh\\Projects\\Learn_microsoft_cSharp\\Microsoft_C#\\DatabaseGeneric\\DatabaseGeneric.csproj"
+            },
+            "C:\\Users\\edogh\\Projects\\Learn_microsoft_cSharp\\Microsoft_C#\\GenericLibrary\\GenericLibrary.csproj": {
+              "projectPath": "C:\\Users\\edogh\\Projects\\Learn_microsoft_cSharp\\Microsoft_C#\\GenericLibrary\\GenericLibrary.csproj"
             }
           }
         }

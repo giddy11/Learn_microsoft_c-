@@ -1,0 +1,12 @@
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\DatabaseGeneric\bin\Debug\net8.0\DatabaseGeneric.deps.json
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\DatabaseGeneric\bin\Debug\net8.0\DatabaseGeneric.dll
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\DatabaseGeneric\bin\Debug\net8.0\DatabaseGeneric.pdb
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\DatabaseGeneric\obj\Debug\net8.0\DatabaseGeneric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\DatabaseGeneric\obj\Debug\net8.0\DatabaseGeneric.AssemblyInfoInputs.cache
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\DatabaseGeneric\obj\Debug\net8.0\DatabaseGeneric.AssemblyInfo.cs
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\DatabaseGeneric\obj\Debug\net8.0\DatabaseGeneric.csproj.CoreCompileInputs.cache
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\DatabaseGeneric\obj\Debug\net8.0\DatabaseGeneric.sourcelink.json
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\DatabaseGeneric\obj\Debug\net8.0\DatabaseGeneric.dll
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\DatabaseGeneric\obj\Debug\net8.0\refint\DatabaseGeneric.dll
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\DatabaseGeneric\obj\Debug\net8.0\DatabaseGeneric.pdb
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\DatabaseGeneric\obj\Debug\net8.0\ref\DatabaseGeneric.dll

@@ -9,17 +9,19 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedTest", "LinkedTest\Li
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Challenge_Project-1", "Challenge_Project-1\Challenge_Project-1.csproj", "{8822DAE0-BA90-48F9-948A-EFB1496E8DA2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Essential.Learning2.Generics", "Essential.Learning2.Generics\Essential.Learning2.Generics.csproj", "{32AA294D-FC31-44BB-91E0-85C75EB0DCAC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Essential.Learning2.Generics", "Essential.Learning2.Generics\Essential.Learning2.Generics.csproj", "{32AA294D-FC31-44BB-91E0-85C75EB0DCAC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DefiningGenerics", "DefiningGenerics\DefiningGenerics.csproj", "{EA83550B-2794-47C0-9384-17E618972B7F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DefiningGenerics", "DefiningGenerics\DefiningGenerics.csproj", "{EA83550B-2794-47C0-9384-17E618972B7F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestingProgram", "TestingProgram\TestingProgram.csproj", "{EF8A1F47-2BDA-49F0-9644-07B349D5535B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestingProgram", "TestingProgram\TestingProgram.csproj", "{EF8A1F47-2BDA-49F0-9644-07B349D5535B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GenericMethods", "GenericMethods", "{5CF640FA-8B16-410B-8E50-703D575FF3D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericLibrary", "GenericLibrary\GenericLibrary.csproj", "{975AE251-D7FC-49C2-8A3A-BE77D993F546}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericLibrary", "GenericLibrary\GenericLibrary.csproj", "{975AE251-D7FC-49C2-8A3A-BE77D993F546}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{0B3641BE-D6F1-47A0-A3C5-02BB9E46DD0D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{0B3641BE-D6F1-47A0-A3C5-02BB9E46DD0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseGeneric", "DatabaseGeneric\DatabaseGeneric.csproj", "{4DE07C0A-1EA1-4B79-A86F-3356F7E5E84F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -59,6 +61,10 @@ Global
 		{0B3641BE-D6F1-47A0-A3C5-02BB9E46DD0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B3641BE-D6F1-47A0-A3C5-02BB9E46DD0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B3641BE-D6F1-47A0-A3C5-02BB9E46DD0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DE07C0A-1EA1-4B79-A86F-3356F7E5E84F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DE07C0A-1EA1-4B79-A86F-3356F7E5E84F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DE07C0A-1EA1-4B79-A86F-3356F7E5E84F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DE07C0A-1EA1-4B79-A86F-3356F7E5E84F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -10,3 +10,15 @@ C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\Ge
 C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\GenericLibrary\obj\Debug\net8.0\refint\GenericLibrary.dll
 C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\GenericLibrary\obj\Debug\net8.0\GenericLibrary.pdb
 C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\GenericLibrary\obj\Debug\net8.0\ref\GenericLibrary.dll
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\GenericLibrary\bin\Debug\net8.0\GenericLibrary.deps.json
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\GenericLibrary\bin\Debug\net8.0\GenericLibrary.dll
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\GenericLibrary\bin\Debug\net8.0\GenericLibrary.pdb
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\GenericLibrary\obj\Debug\net8.0\GenericLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\GenericLibrary\obj\Debug\net8.0\GenericLibrary.AssemblyInfoInputs.cache
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\GenericLibrary\obj\Debug\net8.0\GenericLibrary.AssemblyInfo.cs
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\GenericLibrary\obj\Debug\net8.0\GenericLibrary.csproj.CoreCompileInputs.cache
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\GenericLibrary\obj\Debug\net8.0\GenericLibrary.sourcelink.json
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\GenericLibrary\obj\Debug\net8.0\GenericLibrary.dll
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\GenericLibrary\obj\Debug\net8.0\refint\GenericLibrary.dll
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\GenericLibrary\obj\Debug\net8.0\GenericLibrary.pdb
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\GenericLibrary\obj\Debug\net8.0\ref\GenericLibrary.dll
