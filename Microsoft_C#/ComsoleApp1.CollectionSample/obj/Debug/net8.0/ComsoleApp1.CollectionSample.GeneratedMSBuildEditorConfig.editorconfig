@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ComsoleApp1.CollectionSample
-build_property.ProjectDir = C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\ComsoleApp1.CollectionSample\
+build_property.ProjectDir = C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\ComsoleApp1.CollectionSample\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

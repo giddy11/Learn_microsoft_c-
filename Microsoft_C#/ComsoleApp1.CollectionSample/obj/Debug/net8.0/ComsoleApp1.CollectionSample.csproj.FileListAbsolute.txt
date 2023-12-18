@@ -10,3 +10,15 @@ C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\Co
 C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\ComsoleApp1.CollectionSample\obj\Debug\net8.0\refint\ComsoleApp1.CollectionSample.dll
 C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\ComsoleApp1.CollectionSample\obj\Debug\net8.0\ComsoleApp1.CollectionSample.pdb
 C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\ComsoleApp1.CollectionSample\obj\Debug\net8.0\ref\ComsoleApp1.CollectionSample.dll
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\ComsoleApp1.CollectionSample\bin\Debug\net8.0\ComsoleApp1.CollectionSample.deps.json
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\ComsoleApp1.CollectionSample\bin\Debug\net8.0\ComsoleApp1.CollectionSample.dll
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\ComsoleApp1.CollectionSample\bin\Debug\net8.0\ComsoleApp1.CollectionSample.pdb
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\ComsoleApp1.CollectionSample\obj\Debug\net8.0\ComsoleApp1.CollectionSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\ComsoleApp1.CollectionSample\obj\Debug\net8.0\ComsoleApp1.CollectionSample.AssemblyInfoInputs.cache
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\ComsoleApp1.CollectionSample\obj\Debug\net8.0\ComsoleApp1.CollectionSample.AssemblyInfo.cs
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\ComsoleApp1.CollectionSample\obj\Debug\net8.0\ComsoleApp1.CollectionSample.csproj.CoreCompileInputs.cache
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\ComsoleApp1.CollectionSample\obj\Debug\net8.0\ComsoleApp1.CollectionSample.sourcelink.json
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\ComsoleApp1.CollectionSample\obj\Debug\net8.0\ComsoleApp1.CollectionSample.dll
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\ComsoleApp1.CollectionSample\obj\Debug\net8.0\refint\ComsoleApp1.CollectionSample.dll
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\ComsoleApp1.CollectionSample\obj\Debug\net8.0\ComsoleApp1.CollectionSample.pdb
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\ComsoleApp1.CollectionSample\obj\Debug\net8.0\ref\ComsoleApp1.CollectionSample.dll

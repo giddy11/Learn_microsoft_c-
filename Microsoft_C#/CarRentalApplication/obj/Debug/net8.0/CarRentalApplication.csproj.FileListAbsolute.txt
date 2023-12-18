@@ -1,0 +1,12 @@
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\CarRentalApplication\bin\Debug\net8.0\CarRentalApplication.deps.json
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\CarRentalApplication\bin\Debug\net8.0\CarRentalApplication.dll
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\CarRentalApplication\bin\Debug\net8.0\CarRentalApplication.pdb
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\CarRentalApplication\obj\Debug\net8.0\CarRentalApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\CarRentalApplication\obj\Debug\net8.0\CarRentalApplication.AssemblyInfoInputs.cache
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\CarRentalApplication\obj\Debug\net8.0\CarRentalApplication.AssemblyInfo.cs
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\CarRentalApplication\obj\Debug\net8.0\CarRentalApplication.csproj.CoreCompileInputs.cache
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\CarRentalApplication\obj\Debug\net8.0\CarRentalApplication.sourcelink.json
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\CarRentalApplication\obj\Debug\net8.0\CarRentalApplication.dll
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\CarRentalApplication\obj\Debug\net8.0\refint\CarRentalApplication.dll
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\CarRentalApplication\obj\Debug\net8.0\CarRentalApplication.pdb
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\CarRentalApplication\obj\Debug\net8.0\ref\CarRentalApplication.dll

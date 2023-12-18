@@ -8,10 +8,16 @@
     ".NETCoreApp,Version=v8.0": {
       "ConsoleApp1/1.0.0": {
         "dependencies": {
+          "CarRentalApplication": "1.0.0",
           "ComsoleApp1.CollectionSample": "1.0.0"
         },
         "runtime": {
           "ConsoleApp1.dll": {}
+        }
+      },
+      "CarRentalApplication/1.0.0": {
+        "runtime": {
+          "CarRentalApplication.dll": {}
         }
       },
       "ComsoleApp1.CollectionSample/1.0.0": {
@@ -23,6 +29,11 @@
   },
   "libraries": {
     "ConsoleApp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CarRentalApplication/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
