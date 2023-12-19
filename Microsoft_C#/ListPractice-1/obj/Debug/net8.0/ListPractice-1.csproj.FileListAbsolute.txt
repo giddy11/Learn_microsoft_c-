@@ -1,0 +1,12 @@
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\ListPractice-1\bin\Debug\net8.0\ListPractice-1.deps.json
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\ListPractice-1\bin\Debug\net8.0\ListPractice-1.dll
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\ListPractice-1\bin\Debug\net8.0\ListPractice-1.pdb
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\ListPractice-1\obj\Debug\net8.0\ListPractice-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\ListPractice-1\obj\Debug\net8.0\ListPractice-1.AssemblyInfoInputs.cache
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\ListPractice-1\obj\Debug\net8.0\ListPractice-1.AssemblyInfo.cs
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\ListPractice-1\obj\Debug\net8.0\ListPractice-1.csproj.CoreCompileInputs.cache
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\ListPractice-1\obj\Debug\net8.0\ListPractice-1.sourcelink.json
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\ListPractice-1\obj\Debug\net8.0\ListPractice-1.dll
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\ListPractice-1\obj\Debug\net8.0\refint\ListPractice-1.dll
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\ListPractice-1\obj\Debug\net8.0\ListPractice-1.pdb
+C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\ListPractice-1\obj\Debug\net8.0\ref\ListPractice-1.dll
