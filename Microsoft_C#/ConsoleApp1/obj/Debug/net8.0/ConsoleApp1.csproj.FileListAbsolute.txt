@@ -38,3 +38,7 @@ C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\ConsoleApp1\obj\Debu
 C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
 C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
 C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\ConsoleApp1\bin\Debug\net8.0\CarRentalApplication.dll
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\ConsoleApp1\bin\Debug\net8.0\SortedListCollection.dll
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\ConsoleApp1\bin\Debug\net8.0\CarRentalApplication.pdb
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\ConsoleApp1\bin\Debug\net8.0\SortedListCollection.pdb

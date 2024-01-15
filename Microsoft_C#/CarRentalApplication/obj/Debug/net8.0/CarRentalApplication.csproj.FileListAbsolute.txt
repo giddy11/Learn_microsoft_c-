@@ -10,3 +10,15 @@ C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\CarRentalApplication
 C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\CarRentalApplication\obj\Debug\net8.0\refint\CarRentalApplication.dll
 C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\CarRentalApplication\obj\Debug\net8.0\CarRentalApplication.pdb
 C:\Users\edogh\Projects\Learn_microsoft_cSharp\Microsoft_C#\CarRentalApplication\obj\Debug\net8.0\ref\CarRentalApplication.dll
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\CarRentalApplication\bin\Debug\net8.0\CarRentalApplication.deps.json
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\CarRentalApplication\bin\Debug\net8.0\CarRentalApplication.dll
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\CarRentalApplication\bin\Debug\net8.0\CarRentalApplication.pdb
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\CarRentalApplication\obj\Debug\net8.0\CarRentalApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\CarRentalApplication\obj\Debug\net8.0\CarRentalApplication.AssemblyInfoInputs.cache
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\CarRentalApplication\obj\Debug\net8.0\CarRentalApplication.AssemblyInfo.cs
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\CarRentalApplication\obj\Debug\net8.0\CarRentalApplication.csproj.CoreCompileInputs.cache
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\CarRentalApplication\obj\Debug\net8.0\CarRentalApplication.sourcelink.json
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\CarRentalApplication\obj\Debug\net8.0\CarRentalApplication.dll
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\CarRentalApplication\obj\Debug\net8.0\refint\CarRentalApplication.dll
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\CarRentalApplication\obj\Debug\net8.0\CarRentalApplication.pdb
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\CarRentalApplication\obj\Debug\net8.0\ref\CarRentalApplication.dll

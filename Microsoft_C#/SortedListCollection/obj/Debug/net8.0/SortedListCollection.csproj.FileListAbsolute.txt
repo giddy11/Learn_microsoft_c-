@@ -1,0 +1,12 @@
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\SortedListCollection\bin\Debug\net8.0\SortedListCollection.deps.json
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\SortedListCollection\bin\Debug\net8.0\SortedListCollection.dll
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\SortedListCollection\bin\Debug\net8.0\SortedListCollection.pdb
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\SortedListCollection\obj\Debug\net8.0\SortedListCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\SortedListCollection\obj\Debug\net8.0\SortedListCollection.AssemblyInfoInputs.cache
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\SortedListCollection\obj\Debug\net8.0\SortedListCollection.AssemblyInfo.cs
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\SortedListCollection\obj\Debug\net8.0\SortedListCollection.csproj.CoreCompileInputs.cache
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\SortedListCollection\obj\Debug\net8.0\SortedListCollection.sourcelink.json
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\SortedListCollection\obj\Debug\net8.0\SortedListCollection.dll
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\SortedListCollection\obj\Debug\net8.0\refint\SortedListCollection.dll
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\SortedListCollection\obj\Debug\net8.0\SortedListCollection.pdb
+C:\Users\gideon.edoghotu\Desktop\Projects\Learn_microsoft_cSharp\Microsoft_C#\SortedListCollection\obj\Debug\net8.0\ref\SortedListCollection.dll

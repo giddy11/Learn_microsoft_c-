@@ -10,6 +10,7 @@
   <ItemGroup>
     <ProjectReference Include="..\CarRentalApplication\CarRentalApplication.csproj" />
     <ProjectReference Include="..\ComsoleApp1.CollectionSample\ComsoleApp1.CollectionSample.csproj" />
+    <ProjectReference Include="..\SortedListCollection\SortedListCollection.csproj" />
   </ItemGroup>
 
 </Project>

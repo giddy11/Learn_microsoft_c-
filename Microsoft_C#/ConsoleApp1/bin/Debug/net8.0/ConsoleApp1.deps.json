@@ -9,7 +9,8 @@
       "ConsoleApp1/1.0.0": {
         "dependencies": {
           "CarRentalApplication": "1.0.0",
-          "ComsoleApp1.CollectionSample": "1.0.0"
+          "ComsoleApp1.CollectionSample": "1.0.0",
+          "SortedListCollection": "1.0.0"
         },
         "runtime": {
           "ConsoleApp1.dll": {}
@@ -23,6 +24,11 @@
       "ComsoleApp1.CollectionSample/1.0.0": {
         "runtime": {
           "ComsoleApp1.CollectionSample.dll": {}
+        }
+      },
+      "SortedListCollection/1.0.0": {
+        "runtime": {
+          "SortedListCollection.dll": {}
         }
       }
     }
@@ -39,6 +45,11 @@
       "sha512": ""
     },
     "ComsoleApp1.CollectionSample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SortedListCollection/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

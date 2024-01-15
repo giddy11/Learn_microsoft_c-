@@ -1,7 +1,4 @@
-﻿using CarRentalApplication;
-using ComsoleApp1.CollectionSample;
-using System.Collections;
-using System.ComponentModel.DataAnnotations;
+﻿using SortedListCollection;
 
 //Class1.Queue();
 //Class1.Stack();
@@ -11,7 +8,8 @@ using System.ComponentModel.DataAnnotations;
 //Arrays1.MultiArray();
 //Arrays1.JaggedArray();
 //Arrays1.ArraysOfObjects();
-Car.MainMethod();
+//Car.MainMethod();
+Person.MainMethod();
 
 
 //string[] names = new string[2];
