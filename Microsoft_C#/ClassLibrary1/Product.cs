@@ -119,4 +119,38 @@
         private readonly string DateOfPurchase;
         private double tax;
     }
+
+    public class Student
+    {
+        public void DisplaySubject(params string[] parameter1)
+        {
+            parameter1[0] = "velly";
+            Console.WriteLine(parameter1[0]);
+        }
+
+        public void DisplayMarks(params int[] marks)
+        {
+            foreach (var mark in marks)
+            {
+                Console.WriteLine(mark);
+            }
+            double avg = CalculateAvg(marks);
+            Console.WriteLine();
+        }
+
+        private double CalculateAvg(int[] marks)
+        {
+            throw new NotImplementedException();
+        }
+
+        public static void MainMethod()
+        {
+            Student s = new Student();
+            //s.DisplaySubject("maths", "english");
+
+            s.DisplayMarks(70, 89, 60);
+
+
+        }
+    }
 }
