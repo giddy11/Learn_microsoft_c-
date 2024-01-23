@@ -135,12 +135,18 @@
                 Console.WriteLine(mark);
             }
             double avg = CalculateAvg(marks);
-            Console.WriteLine();
+            Console.WriteLine($"Average: {avg}");
         }
 
         private double CalculateAvg(int[] marks)
         {
-            throw new NotImplementedException();
+            int sum = 0;
+            for (int i = 0; i < marks.Length; i++)
+            {
+                sum += marks[i];
+            }
+
+            return (double)(sum) / marks.Length;
         }
 
         public static void MainMethod()
@@ -148,7 +154,7 @@
             Student s = new Student();
             //s.DisplaySubject("maths", "english");
 
-            s.DisplayMarks(70, 89, 60);
+            s.DisplayMarks(80, 45, 71);
 
 
         }
