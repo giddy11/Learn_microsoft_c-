@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\edogh\\Projects\\Learn_microsoft_cSharp\\Microsoft_C#\\StudentGrading\\StudentGrading.csproj": {}
+    "C:\\Users\\Gideon\\Desktop\\projects\\Learn_microsoft_cSharp\\Microsoft_C#\\StudentGrading\\StudentGrading.csproj": {}
   },
   "projects": {
-    "C:\\Users\\edogh\\Projects\\Learn_microsoft_cSharp\\Microsoft_C#\\StudentGrading\\StudentGrading.csproj": {
+    "C:\\Users\\Gideon\\Desktop\\projects\\Learn_microsoft_cSharp\\Microsoft_C#\\StudentGrading\\StudentGrading.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\edogh\\Projects\\Learn_microsoft_cSharp\\Microsoft_C#\\StudentGrading\\StudentGrading.csproj",
+        "projectUniqueName": "C:\\Users\\Gideon\\Desktop\\projects\\Learn_microsoft_cSharp\\Microsoft_C#\\StudentGrading\\StudentGrading.csproj",
         "projectName": "StudentGrading",
-        "projectPath": "C:\\Users\\edogh\\Projects\\Learn_microsoft_cSharp\\Microsoft_C#\\StudentGrading\\StudentGrading.csproj",
-        "packagesPath": "C:\\Users\\edogh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\edogh\\Projects\\Learn_microsoft_cSharp\\Microsoft_C#\\StudentGrading\\obj\\",
+        "projectPath": "C:\\Users\\Gideon\\Desktop\\projects\\Learn_microsoft_cSharp\\Microsoft_C#\\StudentGrading\\StudentGrading.csproj",
+        "packagesPath": "C:\\Users\\Gideon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gideon\\Desktop\\projects\\Learn_microsoft_cSharp\\Microsoft_C#\\StudentGrading\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\edogh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Gideon\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
