@@ -62,15 +62,18 @@
 
         public bool AreOptionsValid()
         {
+            // Another way to tackle this problem
+            //return (optionA != null || optionB != null) && (optionC != null || optionD != null);
+
             int count = 0;
 
-            if (this.optionA != null)
+            if (optionA != null)
                 count++;
-            if (this.optionB != null)
+            if (optionB != null)
                 count++;
-            if (this.optionC != null)
+            if (optionC != null)
                 count++;
-            if (this.optionD != null)
+            if (optionD != null)
                 count++;
 
             if (count >= 2)
