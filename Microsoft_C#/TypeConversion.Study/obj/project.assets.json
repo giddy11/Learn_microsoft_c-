@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gideon\\Desktop\\projects\\Learn_microsoft_cSharp\\Microsoft_C#\\Challenge_Project-1\\Challenge_Project-1.csproj",
-      "projectName": "Challenge_Project-1",
-      "projectPath": "C:\\Users\\Gideon\\Desktop\\projects\\Learn_microsoft_cSharp\\Microsoft_C#\\Challenge_Project-1\\Challenge_Project-1.csproj",
+      "projectUniqueName": "C:\\Users\\Gideon\\Desktop\\projects\\Learn_microsoft_cSharp\\Microsoft_C#\\TypeConversion.Study\\TypeConversion.Study.csproj",
+      "projectName": "TypeConversion.Study",
+      "projectPath": "C:\\Users\\Gideon\\Desktop\\projects\\Learn_microsoft_cSharp\\Microsoft_C#\\TypeConversion.Study\\TypeConversion.Study.csproj",
       "packagesPath": "C:\\Users\\Gideon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gideon\\Desktop\\projects\\Learn_microsoft_cSharp\\Microsoft_C#\\Challenge_Project-1\\obj\\",
+      "outputPath": "C:\\Users\\Gideon\\Desktop\\projects\\Learn_microsoft_cSharp\\Microsoft_C#\\TypeConversion.Study\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gideon\\AppData\\Roaming\\NuGet\\NuGet.Config",
