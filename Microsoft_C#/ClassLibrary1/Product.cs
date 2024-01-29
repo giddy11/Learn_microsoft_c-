@@ -159,4 +159,84 @@
 
         }
     }
+
+
+    public class Employee
+    {
+        public Employee()
+        {}
+
+        public Employee(int empID, string empName, string job, double salary)
+        {
+            _empID = empID;
+            _empName = empName;
+            _job = job;
+            _salary = 1000;
+        }
+
+        // Instance fields
+        private int _empID;
+        private string _empName;
+        private string _job;
+        private double _salary;
+        private static string _companyName;
+
+        // Instance propert
+        public int EmpID
+        {
+            set
+            {
+                _empID = value;
+            }
+            get
+            {
+                return _empID;
+            }
+        }
+
+        public string EmpName
+        {
+            set { _empName = value; }
+            get { return _empName; }
+        }
+
+        public string Job
+        {
+            set { _job = value; }
+            get { return _job; }
+        }
+
+        // readonly property
+        public double Salary
+        {
+            get { return _salary; }
+        }
+
+        //public static string CompanyName { get => _companyName; set => _companyName = value; }
+        public static string CompanyName 
+        {
+            set { _companyName = value; }
+            get { return _companyName; }
+        }
+
+    }
+
+    public class Car
+    {
+        private string[] _brands = new string[] { "BMW", "Skoda", "Honda", "Sienna" };
+        private string[] _names = new string[] { "first", "second", "third", "fourth" };
+
+        public string this[int index]
+        {
+            set { this._brands[index] = value; }
+            get { return this._brands[index]; }
+        }
+
+        // Index Overloading
+        public string this[string name]
+        {
+            set { this._names[Array.IndexOf(_names, name)] = value; }
+            get { return this._names[Array.IndexOf(_names, name)]; }
+        }
+    }
 }

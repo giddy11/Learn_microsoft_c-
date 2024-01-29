@@ -2,7 +2,18 @@
 using ClassLibrary1;
 
 //Product.MainMethod();
-Student.MainMethod();
+//Student.MainMethod();
 
-//Product pred = new Product();
+// Employee
+//var emp = new Employee();
+//emp.EmpID = 1;
 
+// Car
+var car = new Car();
+car[0] = "Hello";
+
+car["first"] = "fifth";
+
+Console.WriteLine(car["seckond"]);
+
+Console.WriteLine();

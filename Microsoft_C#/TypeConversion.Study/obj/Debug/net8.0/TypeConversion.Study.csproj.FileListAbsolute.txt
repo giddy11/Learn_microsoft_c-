@@ -1,0 +1,12 @@
+C:\Users\Gideon\Desktop\projects\Learn_microsoft_cSharp\Microsoft_C#\TypeConversion.Study\bin\Debug\net8.0\TypeConversion.Study.deps.json
+C:\Users\Gideon\Desktop\projects\Learn_microsoft_cSharp\Microsoft_C#\TypeConversion.Study\bin\Debug\net8.0\TypeConversion.Study.dll
+C:\Users\Gideon\Desktop\projects\Learn_microsoft_cSharp\Microsoft_C#\TypeConversion.Study\bin\Debug\net8.0\TypeConversion.Study.pdb
+C:\Users\Gideon\Desktop\projects\Learn_microsoft_cSharp\Microsoft_C#\TypeConversion.Study\obj\Debug\net8.0\TypeConversion.Study.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gideon\Desktop\projects\Learn_microsoft_cSharp\Microsoft_C#\TypeConversion.Study\obj\Debug\net8.0\TypeConversion.Study.AssemblyInfoInputs.cache
+C:\Users\Gideon\Desktop\projects\Learn_microsoft_cSharp\Microsoft_C#\TypeConversion.Study\obj\Debug\net8.0\TypeConversion.Study.AssemblyInfo.cs
+C:\Users\Gideon\Desktop\projects\Learn_microsoft_cSharp\Microsoft_C#\TypeConversion.Study\obj\Debug\net8.0\TypeConversion.Study.csproj.CoreCompileInputs.cache
+C:\Users\Gideon\Desktop\projects\Learn_microsoft_cSharp\Microsoft_C#\TypeConversion.Study\obj\Debug\net8.0\TypeConversion.Study.sourcelink.json
+C:\Users\Gideon\Desktop\projects\Learn_microsoft_cSharp\Microsoft_C#\TypeConversion.Study\obj\Debug\net8.0\TypeConversion.Study.dll
+C:\Users\Gideon\Desktop\projects\Learn_microsoft_cSharp\Microsoft_C#\TypeConversion.Study\obj\Debug\net8.0\refint\TypeConversion.Study.dll
+C:\Users\Gideon\Desktop\projects\Learn_microsoft_cSharp\Microsoft_C#\TypeConversion.Study\obj\Debug\net8.0\TypeConversion.Study.pdb
+C:\Users\Gideon\Desktop\projects\Learn_microsoft_cSharp\Microsoft_C#\TypeConversion.Study\obj\Debug\net8.0\ref\TypeConversion.Study.dll
