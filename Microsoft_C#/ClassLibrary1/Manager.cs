@@ -32,7 +32,6 @@ namespace ClassLibrary1
 
         public  override string GetHealthInsuranceAmount(int add)
         {
-            base.GetHealthInsuranceAmount(add);
             return "Additional is 1000";
         }
 

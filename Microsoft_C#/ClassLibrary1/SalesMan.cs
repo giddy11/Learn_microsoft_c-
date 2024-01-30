@@ -18,6 +18,11 @@ namespace ClassLibrary1
             return 10000;
         }
 
+        public override string GetHealthInsuranceAmount(int add)
+        {
+            throw new NotImplementedException();
+        }
+
         public string Region { get; set; }
     }
 }
