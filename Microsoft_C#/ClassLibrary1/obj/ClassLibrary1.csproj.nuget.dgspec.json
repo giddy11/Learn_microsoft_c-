@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gideon\\Desktop\\projects\\Learn_microsoft_cSharp\\Microsoft_C#\\Challenge_Project-1\\Challenge_Project-1.csproj": {}
+    "C:\\Users\\Gideon\\Desktop\\projects\\Learn_microsoft_cSharp\\Microsoft_C#\\ClassLibrary1\\ClassLibrary1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gideon\\Desktop\\projects\\Learn_microsoft_cSharp\\Microsoft_C#\\Challenge_Project-1\\Challenge_Project-1.csproj": {
+    "C:\\Users\\Gideon\\Desktop\\projects\\Learn_microsoft_cSharp\\Microsoft_C#\\ClassLibrary1\\ClassLibrary1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gideon\\Desktop\\projects\\Learn_microsoft_cSharp\\Microsoft_C#\\Challenge_Project-1\\Challenge_Project-1.csproj",
-        "projectName": "Challenge_Project-1",
-        "projectPath": "C:\\Users\\Gideon\\Desktop\\projects\\Learn_microsoft_cSharp\\Microsoft_C#\\Challenge_Project-1\\Challenge_Project-1.csproj",
+        "projectUniqueName": "C:\\Users\\Gideon\\Desktop\\projects\\Learn_microsoft_cSharp\\Microsoft_C#\\ClassLibrary1\\ClassLibrary1.csproj",
+        "projectName": "ClassLibrary1",
+        "projectPath": "C:\\Users\\Gideon\\Desktop\\projects\\Learn_microsoft_cSharp\\Microsoft_C#\\ClassLibrary1\\ClassLibrary1.csproj",
         "packagesPath": "C:\\Users\\Gideon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gideon\\Desktop\\projects\\Learn_microsoft_cSharp\\Microsoft_C#\\Challenge_Project-1\\obj\\",
+        "outputPath": "C:\\Users\\Gideon\\Desktop\\projects\\Learn_microsoft_cSharp\\Microsoft_C#\\ClassLibrary1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gideon\\AppData\\Roaming\\NuGet\\NuGet.Config",
