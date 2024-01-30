@@ -239,4 +239,29 @@
             get { return this._names[Array.IndexOf(_names, name)]; }
         }
     }
+
+    public class DebitCard
+    {
+        private string _pin;
+
+        public string Pin
+        {
+            set
+            {
+                if (value.Length == 4 || value.Length == 6)
+                {
+                    _pin = value;
+                    Console.WriteLine("valid");
+                }
+                else
+                {
+                    Console.WriteLine("invalid");
+                }
+            }
+            get
+            {
+                return _pin;
+            }
+        }
+    }
 }

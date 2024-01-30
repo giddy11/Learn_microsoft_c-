@@ -9,11 +9,18 @@ using ClassLibrary1;
 //emp.EmpID = 1;
 
 // Car
-var car = new Car();
-car[0] = "Hello";
+//var car = new Car();
+//car[0] = "Hello";
 
-car["first"] = "fifth";
+//car["first"] = "fifth";
 
-Console.WriteLine(car["seckond"]);
+//Console.WriteLine(car["seckond"]);
+
+var debit = new DebitCard();
+debit.Pin = "hdgtsde";
+
+//Console.WriteLine(debit.Pin);
+
+
 
 Console.WriteLine();
