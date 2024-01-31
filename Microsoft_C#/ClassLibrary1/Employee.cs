@@ -2,6 +2,10 @@
 {
     public abstract class Employee
     {
+        public Employee()
+        {
+            
+        }
         public Employee(int empId, string empName, string location)
         {
             EmpId = empId;

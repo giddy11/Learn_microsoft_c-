@@ -8,6 +8,10 @@ namespace ClassLibrary1
 {
     public class Manager : Employee
     {
+        public Manager()
+        {
+            
+        }
         public Manager(int empId, string empName, string location, string departmentName) : base(empId, empName, location)
         {
             DepartmentName = departmentName;
