@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {
-      "ClassLibrary2/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "compile": {
-          "bin/placeholder/ClassLibrary2.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/ClassLibrary2.dll": {}
-        }
-      }
-    }
+    "net8.0": {}
   },
-  "libraries": {
-    "ClassLibrary2/1.0.0": {
-      "type": "project",
-      "path": "../ClassLibrary2/ClassLibrary2.csproj",
-      "msbuildProject": "../ClassLibrary2/ClassLibrary2.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net8.0": [
-      "ClassLibrary2 >= 1.0.0"
-    ]
+    "net8.0": []
   },
   "packageFolders": {
     "C:\\Users\\edogh\\.nuget\\packages\\": {}
@@ -32,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\edogh\\Projects\\Learn_microsoft_cSharp\\Microsoft_C#\\StudentGrading\\StudentGrading.csproj",
-      "projectName": "StudentGrading",
-      "projectPath": "C:\\Users\\edogh\\Projects\\Learn_microsoft_cSharp\\Microsoft_C#\\StudentGrading\\StudentGrading.csproj",
+      "projectUniqueName": "C:\\Users\\edogh\\Projects\\Learn_microsoft_cSharp\\Microsoft_C#\\ClassLibrary1\\ClassLibrary1.csproj",
+      "projectName": "ClassLibrary1",
+      "projectPath": "C:\\Users\\edogh\\Projects\\Learn_microsoft_cSharp\\Microsoft_C#\\ClassLibrary1\\ClassLibrary1.csproj",
       "packagesPath": "C:\\Users\\edogh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\edogh\\Projects\\Learn_microsoft_cSharp\\Microsoft_C#\\StudentGrading\\obj\\",
+      "outputPath": "C:\\Users\\edogh\\Projects\\Learn_microsoft_cSharp\\Microsoft_C#\\ClassLibrary1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\edogh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,11 +33,7 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {
-            "C:\\Users\\edogh\\Projects\\Learn_microsoft_cSharp\\Microsoft_C#\\ClassLibrary2\\ClassLibrary2.csproj": {
-              "projectPath": "C:\\Users\\edogh\\Projects\\Learn_microsoft_cSharp\\Microsoft_C#\\ClassLibrary2\\ClassLibrary2.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

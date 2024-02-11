@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudentGrading", "StudentGr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedTest", "LinkedTest\LinkedTest.csproj", "{F1714706-8EE7-4F6D-808D-BB322D511F97}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge_Project-1", "Challenge_Project-1\Challenge_Project-1.csproj", "{8822DAE0-BA90-48F9-948A-EFB1496E8DA2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Challenge_Project-1", "Challenge_Project-1\Challenge_Project-1.csproj", "{8822DAE0-BA90-48F9-948A-EFB1496E8DA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary2", "ClassLibrary2\ClassLibrary2.csproj", "{A641738C-6C96-45BE-81EC-245A420BC119}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{8822DAE0-BA90-48F9-948A-EFB1496E8DA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8822DAE0-BA90-48F9-948A-EFB1496E8DA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8822DAE0-BA90-48F9-948A-EFB1496E8DA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A641738C-6C96-45BE-81EC-245A420BC119}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A641738C-6C96-45BE-81EC-245A420BC119}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A641738C-6C96-45BE-81EC-245A420BC119}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A641738C-6C96-45BE-81EC-245A420BC119}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
