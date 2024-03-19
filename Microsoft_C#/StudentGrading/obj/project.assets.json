@@ -1,26 +1,50 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "DelegateExample/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/DelegateExample.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DelegateExample.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "DelegateExample/1.0.0": {
+      "type": "project",
+      "path": "../DelegateExample/DelegateExample.csproj",
+      "msbuildProject": "../DelegateExample/DelegateExample.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "DelegateExample >= 1.0.0"
+    ]
   },
   "packageFolders": {
-    "C:\\Users\\edogh\\.nuget\\packages\\": {}
+    "C:\\Users\\gideon.edoghotu\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\edogh\\Projects\\Learn_microsoft_cSharp\\Microsoft_C#\\StudentGrading\\StudentGrading.csproj",
-      "projectName": "StudentGrading",
-      "projectPath": "C:\\Users\\edogh\\Projects\\Learn_microsoft_cSharp\\Microsoft_C#\\StudentGrading\\StudentGrading.csproj",
-      "packagesPath": "C:\\Users\\edogh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\edogh\\Projects\\Learn_microsoft_cSharp\\Microsoft_C#\\StudentGrading\\obj\\",
+      "projectUniqueName": "C:\\Users\\gideon.edoghotu\\Desktop\\Projects\\Learn_microsoft_cSharp\\Microsoft_C#\\StudentGrading\\COnsole.csproj",
+      "projectName": "COnsole",
+      "projectPath": "C:\\Users\\gideon.edoghotu\\Desktop\\Projects\\Learn_microsoft_cSharp\\Microsoft_C#\\StudentGrading\\COnsole.csproj",
+      "packagesPath": "C:\\Users\\gideon.edoghotu\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gideon.edoghotu\\Desktop\\Projects\\Learn_microsoft_cSharp\\Microsoft_C#\\StudentGrading\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\edogh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\gideon.edoghotu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,18 +52,29 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.pkg.github.com/cyphercrescent/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\gideon.edoghotu\\Desktop\\Projects\\Learn_microsoft_cSharp\\Microsoft_C#\\DelegateExample\\DelegateExample.csproj": {
+              "projectPath": "C:\\Users\\gideon.edoghotu\\Desktop\\Projects\\Learn_microsoft_cSharp\\Microsoft_C#\\DelegateExample\\DelegateExample.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -61,7 +96,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
