@@ -1,6 +1,7 @@
 ﻿
 
 // create object of sample class
+using COnsole;
 using DelegateExample;
 using EventsExample;
 
@@ -26,7 +27,12 @@ myDelegateType2 += s2.Multiply;
 
 //Events
 var pub = new Publisher();
+var funcPub = new FuncClass();
+var actionPub = new ActionClass();
+var predPub = new PredicateClass();
+var eventHandPub = new PublisherEvent();
 var sub = new Subscriber();
+
 
 //handle the event or subscribe to event
 //pub.MyEvent += sub.Add;
@@ -40,7 +46,21 @@ var sub = new Subscriber();
 //    return a + b;
 //};
 
-pub.MyEvent += (a, b) => a + b;
+funcPub.myEvent += (a, b) => a + b;
 
 //invoke the event
-Console.WriteLine(pub.RaiseEvent(23, 4));
+//Console.WriteLine(funcPub.RaiseEvent(23, 4));
+
+
+//actionPub.myEvent += delegate (int a, int b)
+//{
+//    Console.WriteLine(a + b);
+//};
+//actionPub.RaiseEvent(3, 4);
+
+//predPub.myEvent += (int a) => a >= 0;
+//Console.WriteLine(predPub.RaiseEvent(3));
+
+
+
+eventHandPub.DoWork();
