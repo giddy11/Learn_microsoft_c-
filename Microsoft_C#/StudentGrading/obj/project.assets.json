@@ -11,6 +11,16 @@
         "runtime": {
           "bin/placeholder/DelegateExample.dll": {}
         }
+      },
+      "EventsExample/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/EventsExample.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EventsExample.dll": {}
+        }
       }
     }
   },
@@ -19,11 +29,17 @@
       "type": "project",
       "path": "../DelegateExample/DelegateExample.csproj",
       "msbuildProject": "../DelegateExample/DelegateExample.csproj"
+    },
+    "EventsExample/1.0.0": {
+      "type": "project",
+      "path": "../EventsExample/EventsExample.csproj",
+      "msbuildProject": "../EventsExample/EventsExample.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "DelegateExample >= 1.0.0"
+      "DelegateExample >= 1.0.0",
+      "EventsExample >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -62,6 +78,9 @@
           "projectReferences": {
             "C:\\Users\\gideon.edoghotu\\Desktop\\Projects\\Learn_microsoft_cSharp\\Microsoft_C#\\DelegateExample\\DelegateExample.csproj": {
               "projectPath": "C:\\Users\\gideon.edoghotu\\Desktop\\Projects\\Learn_microsoft_cSharp\\Microsoft_C#\\DelegateExample\\DelegateExample.csproj"
+            },
+            "C:\\Users\\gideon.edoghotu\\Desktop\\Projects\\Learn_microsoft_cSharp\\Microsoft_C#\\EventsExample\\EventsExample.csproj": {
+              "projectPath": "C:\\Users\\gideon.edoghotu\\Desktop\\Projects\\Learn_microsoft_cSharp\\Microsoft_C#\\EventsExample\\EventsExample.csproj"
             }
           }
         }
